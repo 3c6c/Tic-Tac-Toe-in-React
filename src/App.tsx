@@ -1,9 +1,9 @@
-import Square from "./components/Game";
+import Board from "./components/Game";
 
 export default function Main() {
   return(
     <div>
-      <Square />
+      <Board />
     </div>
   );
 }
